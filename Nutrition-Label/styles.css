@@ -13,16 +13,21 @@ body {
     padding: 0 7px;
 }
 
-*{
+* {
     box-sizing: border-box;
 }
 
-h1{
+h1 {
     font-weight: 800;
     text-align: center;
     margin: -4px 0;
 }
 
-p{
+p {
     margin: 0;
+}
+
+.divider {
+    border-bottom: 1px solid #888989;
+    margin: 2px 0;
 }
